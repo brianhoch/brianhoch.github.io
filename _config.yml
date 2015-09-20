@@ -8,5 +8,7 @@ url: "http://brianhoch.github.io" # the base hostname & protocol for your site
 twitter_username: brianhoch
 github_username:  brianhoch
 
+permalink:  /:year/:month/:title/
+
 # Build settings
 markdown: kramdown
