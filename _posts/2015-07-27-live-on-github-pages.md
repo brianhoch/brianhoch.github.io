@@ -2,8 +2,10 @@
 layout: post
 title:  "Live on GitHub pages"
 date:   2015-07-27 01:03:00
-categories: jekyll github testing
+categories: blog
+tags: jekyll github testing
 ---
+
 With a little effort the Jekyll blog is now live on GitHub pages. The `git` flow using https is much more straightforward than the `ssh` workflow that I used years ago.
 
 The most time consuming steps were copying the blog files into the cloned repo and getting reacquainted with `git`'s add-commit-push workflow to push it all up to GitHub. If I'd have forked an existing repo to start with it would have been even easier.

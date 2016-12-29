@@ -2,7 +2,8 @@
 layout: post
 title:  "Posting via GitHub"
 date:   2015-07-27 14:25:00
-categories: jekyll github
+categories: blog
+tags: jekyll github
 ---
 As I post via the GitHub site a couple things stand out.
 
