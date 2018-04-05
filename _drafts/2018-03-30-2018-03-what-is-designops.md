@@ -57,19 +57,17 @@ So just as we do for our users, our first step is to understand the organization
 
 ![Iterating on design process](/assets/iterating-on-process.jpg "Team member at whiteboard iterating on a design process")
 
-Discussion from our most recent round with the DesignOps Canvas has led to great perspectives on topics including the following:
+Discussion from our most recent round with the DesignOps Canvas led to great perspectives on topics like:
 
-- Improving how we measure the success of our design work
-- Improve our process for critiquing work within the team
-- Improve new employee onboarding
-- Increase the frequency of UX team cultural activities
+- How we measure the success of our design work
+- How we critique work within the team
+- How we onboard new employees
 - How to best share the results of user research with the rest of the company to facilitate data-driven decision making
 - How to better help our product team partners to develop greater understanding of and empathy for user needs
 
 As the team moves forward in our journey we'll work through these and other areas as we leverage DesignOps to continuously improve our work, improve the team's experience doing it, improve our ability to work at scale, multiply the impact of our efforts, and thus prove out the value of the investment that Macmillan leadership has made in our team.
 
 Stay tuned for more information as we share what we learn in our DesignOps journey.
-
 
 ## Further reading ##
 
