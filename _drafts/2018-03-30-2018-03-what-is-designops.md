@@ -12,6 +12,8 @@ tags:
   - design systems
 ---
 
+![Critiquing design process](/assets/critiquing-process-improvements.jpg "UX team critiquing possible improvements to design process")
+
 If you follow experience or product design you've probably heard the term DesignOps or the more abbreviated _DesOps_ lately. For some very specific reasons the term has got a lot of play recently within circles. But just what is DesignOps aside from a snazzy compound word with an inner cap for extra style points?
 
 ## Why DesignOps? ##
@@ -25,11 +27,7 @@ We multiply the investment made in us by:
 - Increasing the efficiency with which we execute the design process
 - Working effectively at scale
 - Efficiently communicating with product partners and stakeholders to work from the best information and maintain alignment
-- Constantly improving the quality of work that we deliver in
-    - Understanding user needs and wants
-    - Ideating solutions that address those needs
-    - Validating those solutions to assure proper fit
-    - Crafting those solutions into delightful, inclusive experiences
+- Constantly improving the quality of work that we deliver
 
 ## DesignOps multiplies design team effectiveness ##
 
@@ -55,28 +53,20 @@ In talking with peers at other companies I've seen varied definitions of DesignO
 
 So just as we do for our users, our first step is to understand the organization's needs. We've found the [DesignOps Canvas](http://gamestorming.com/mapping-design-operations/) to be a great tool for assessing where the organization is, where we want to be, and using that information to establish priorities for where to apply our operational attention.
 
----
+## What DesignOps means to us this cycle ##
 
-*Include?*
+![Iterating on design process](/assets/iterating-on-process.jpg "Team member at whiteboard iterating on a design process")
 
-## What DesignOps means to us right now ##
-
-(Photo from January's UX Summit of our team at whiteboards)
-
-Based on the results from our most recent round with the DesignOps Canvas we've discussed the following improvements in our team:
+Discussion from our most recent round with the DesignOps Canvas has led to great perspectives on topics including the following:
 
 - Improving how we measure the success of our design work
-- How to best share the results of user research with the rest of the company to facilitate data-driven decision making
 - Improve our process for critiquing work within the team
-- How to better help our product team partners to develop greater understanding of and empathy for user needs
 - Improve new employee onboarding
 - Increase the frequency of UX team cultural activities
+- How to best share the results of user research with the rest of the company to facilitate data-driven decision making
+- How to better help our product team partners to develop greater understanding of and empathy for user needs
 
----
-
-## We live in interesting times ##
-
-We're excited to leverage this growing discipline to help us to do our best work, to improve our ability to work at scale, to multiply the impact of our efforts, and thus prove out the value of the investment that Macmillan leadership has made in our team.
+As the team moves forward in our journey we'll work through these and other areas as we leverage DesignOps to continuously improve our work, improve the team's experience doing it, improve our ability to work at scale, multiply the impact of our efforts, and thus prove out the value of the investment that Macmillan leadership has made in our team.
 
 Stay tuned for more information as we share what we learn in our DesignOps journey.
 
